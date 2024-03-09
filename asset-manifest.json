@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/genai-chat/static/css/main.7bafb500.css",
+    "main.js": "/genai-chat/static/js/main.8400760a.js",
+    "static/js/453.0a259fd7.chunk.js": "/genai-chat/static/js/453.0a259fd7.chunk.js",
+    "static/media/ai.png": "/genai-chat/static/media/ai.887f6d492fcd4385f472.png",
+    "static/media/bg2.jpg": "/genai-chat/static/media/bg2.4e2a4eb29ce9448cbe82.jpg",
+    "index.html": "/genai-chat/index.html",
+    "main.7bafb500.css.map": "/genai-chat/static/css/main.7bafb500.css.map",
+    "main.8400760a.js.map": "/genai-chat/static/js/main.8400760a.js.map",
+    "453.0a259fd7.chunk.js.map": "/genai-chat/static/js/453.0a259fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bafb500.css",
+    "static/js/main.8400760a.js"
+  ]
+}
